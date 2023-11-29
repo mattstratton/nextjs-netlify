@@ -15,7 +15,7 @@ export default function Home() {
     >
       <Box display="flex" gap="3" justifyContent="center" className="flex-wrap">
         <Chip text="Aiven for PostgreSQL®" />
-        <Chip text="Aiven for Wonderful Redis®*" />
+        <Chip text="Aiven for Redis®*" />
       </Box>
       <Typography.LargeHeading>
         Free Netlify quickstart recipe library app using Next.js, Prisma and Aiven
